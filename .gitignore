@@ -1,0 +1,49 @@
+# Dependencies
+/node_modules
+/vendor
+
+# Compiled source #
+/public/build
+/public/hot
+
+# Laravel specific caches and sensitive files #
+/bootstrap/cache/
+/storage/*.key
+/storage/framework/
+/storage/logs/
+/.phpunit.cache
+/.phpunit.result.cache
+/public/storage
+
+# Environment configuration files #
+.env
+.env.backup
+.env.production
+
+# IDE settings #
+/.idea
+/.vscode
+/.fleet
+
+# System files #
+.DS_Store
+
+# Homestead configuration files #
+Homestead.json
+Homestead.yaml
+
+# Composer authentication files #
+auth.json
+
+# Log files #
+npm-debug.log
+yarn-error.log
+
+# PHPUnit files #
+/phpunit.xml
+
+# Vite configuration file #
+/vite.config.js
+
+# Docker configuration #
+/docker-compose.yml
